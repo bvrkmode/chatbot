@@ -1,0 +1,36 @@
+Dönüşüm,Dünya Roman,Franz Kafka,İş Bankası Kültür Yayınları,74,2013,11. Basım,4.2 TL
+Dava,Dünya Roman,Franz Kafka,İş Bankası Kültür Yayınları,224,2015,NaN,9.33 TL
+Aforizmalar,Dünya Roman,Franz Kafka,İş Bankası Kültür Yayınları,109,2010,NaN,6.67 TL
+Dönüşüm,Dünya Roman,Franz Kafka,Can Yayınları,104,2001,NaN,5.19 TL
+Dava,Dünya Roman,Franz Kafka,Can Yayınları,248,1999,NaN,12.96 TL
+Franz Kafka Babaya Mektup,Dünya Mektup,Franz Kafka,İş Bankası Kültür Yayınları,72,2016,NaN,6.0 TL
+Bir Köy Hekimi,Türk Öykü,Franz Kafka,Altıkırkbeş Basın Yayın,80,2009,1. Basım,5.56 TL
+Milena'ya Mektuplar,Dünya Mektup,Franz Kafka,İndigo Kitap,320,2018,1. Basım,9.67 TL
+Kafka Kutulu Set 4 Kitap Takım,Dünya Roman,Franz Kafka,Panama Yayıncılık,800,2017,1. Basım,26.48 TL
+Milenaya Mektuplar,Türk Mektup,Franz Kafka,Dorlion Yayınevi,270,2018,1. Basım,8.42 TL
+Milena'ya Mektuplar,Dünya Mektup,Franz Kafka,Panama Yayıncılık,400,2013,NaN,12.22 TL
+Ceza Sömürgesi,Dünya Roman,Franz Kafka,Kırmızı Kedi,58,2016,NaN,4.67 TL
+Dava,Dünya Klasik,Franz Kafka,Panama Yayıncılık,272,2015,NaN,7.9 TL
+Milena'ya Mektuplar,Dünya Mektup,Franz Kafka,Can Yayınları,400,2009,NaN,19.12 TL
+The Metamorphosis,Classics,Franz Kafka,Literart Yayınları,85,2015,NaN,6.57 TL
+Metamorphosis,Classics,Franz Kafka,Ren Kitap,88,2019,1. Basım,7.9 TL
+Kafka-Aforizmalar,Felsefe Bilimi,Franz Kafka,Aylak Adam,160,2018,1. Basım,7.0 TL
+Babaya Mektup,Dünya Mektup,Franz Kafka,Ren Kitap,80,2017,1. Basım,5.9 TL
+Babaya Mektup,Dünya Mektup,Franz Kafka,İndigo Kitap,96,2018,1. Basım,4.83 TL
+Milena'ya Mektuplar,Dünya Mektup,Franz Kafka,Mavi Çatı Yayınları,390,2018,1. Basım,11.84 TL
+Dönüşüm,Dünya Roman,Franz Kafka,Kafka,79,2016,NaN,5.96 TL
+Dava,Dünya Roman,Franz Kafka,İletişim Yayıncılık,278,2015,NaN,16.22 TL
+Şato,Dünya Roman,Franz Kafka,İş Bankası Kültür Yayınları,360,2014,NaN,12.0 TL
+Milena'ya Mektuplar,Dünya Mektup,Franz Kafka,Kafka,318,2017,1. Basım,15.05 TL
+Dönüşüm,Dünya Roman,Franz Kafka,İndigo Kitap,96,2018,1. Basım,4.83 TL
+Dönüşüm,Dünya Roman,Franz Kafka,Kolektif Kitap,132,2012,NaN,16.67 TL
+Şato,Dünya Roman,Franz Kafka,Düşülke Yayınları,490,2015,NaN,16.9 TL
+Milena'ya Mektuplar,Dünya Mektup,Franz Kafka,Oda Yayınları,421,2016,NaN,15.74 TL
+Ceza Kolonisinde ve Diğer Öyküler,Dünya Öykü,Franz Kafka,İş Bankası Kültür Yayınları,200,2016,NaN,9.33 TL
+Milena’ya Mektuplar,Dünya Mektup,Franz Kafka,Halk Kitabevi,240,2017,1. Basım,16.9 TL
+Milena’ya Mektuplar,Dünya Mektup,Franz Kafka,İlgi Kültür Sanat Yayınları,299,2017,1. Basım,12.17 TL
+Hikayeler,Dünya Roman,Franz Kafka,Cem Yayınevi,NaN,NaN,NaN,11.85 TL
+Dönüşüm,Dünya Roman,Franz Kafka,Panama Yayıncılık,88,2015,NaN,3.89 TL
+Dava,Dünya Roman,Franz Kafka,İndigo Kitap,304,2017,1. Basım,9.13 TL
+Dava,Dünya Roman,Franz Kafka,Dorlion Yayınevi,254,2019,1. Basım,6.76 TL
+Şato,Dünya Roman,Franz Kafka,Cem Yayınevi,472,NaN,NaN,18.52 TL

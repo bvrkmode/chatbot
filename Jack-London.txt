@@ -1,0 +1,36 @@
+Bir Kuzey Macerası,Dünya Klasik,Jack London,İş Bankası Kültür Yayınları,56,2018,1. Basım,4.67 TL
+Beyaz Diş-Kısaltılmış Metin,Çocuk Klasik,Jack London,İş Bankası Kültür Yayınları,80,2017,1. Basım,3.33 TL
+Deniz Kurdu,Çocuk Klasik,Jack London,İş Bankası Kültür Yayınları,96,2017,1. Basım,3.33 TL
+Demir Ökçe,Dünya Öykü,Jack London,İş Bankası Kültür Yayınları,336,2013,NaN,10.66 TL
+Martin Eden,Dünya Klasik,Jack London,İş Bankası Kültür Yayınları,520,2014,7. Basım,18.0 TL
+Beyaz Diş,Dünya Klasik,Jack London,İş Bankası Kültür Yayınları,258,2010,NaN,9.33 TL
+Büyük Evin Küçük Hanımefendisi,Dünya Klasik,Jack London,Maya Kitap,320,2018,1. Basım,9.9 TL
+Jack London - Öyküler,Dünya Öykü,Jack London,Epsilon Yayınevi,173,2016,NaN,5.78 TL
+Yıldız Gezgini,Dünya Klasik,Jack London,İş Bankası Kültür Yayınları,344,2014,NaN,12.0 TL
+Beyaz Diş-Dünya Çocuk Klasikleri,Çocuk Klasik,Jack London,Dorlion Yayınevi,87,2018,1. Basım,3.37 TL
+Vahşetin Çağrısı,Dünya Klasik,Jack London,İş Bankası Kültür Yayınları,112,2010,NaN,6.67 TL
+Midas'ın Müritleri - Babil Kitaplığı 10,Dünya Roman,Jack London,Kırmızı Kedi,114,2016,NaN,9.33 TL
+Beyaz Diş,Dünya Klasik,Jack London,Can Yayınları,256,2018,1. Basım,7.78 TL
+Adem'den Önce,Dünya Klasik,Jack London,İş Bankası Kültür Yayınları,160,2019,1. Basım,9.36 TL
+Ademden Önce,Dünya Klasik,Jack London,Oda Yayınları,150,1997,NaN,5.04 TL
+Deniz Kurdu,Dünya Klasik,Jack London,İş Bankası Kültür Yayınları,376,2014,4. Basım,12.0 TL
+Vahşetin Çağrısı-İş Çocuk Klasikleri,Çocuk Klasik,Jack London,İş Bankası Kültür Yayınları,96,2017,1. Basım,3.33 TL
+Beyaz Diş,Çocuk Klasik,Jack London,Bilgi Yayınevi,208,2010,NaN,5.83 TL
+Martin Eden,Dünya Klasik,Jack London,İndigo Kitap,520,2018,1. Basım,12.89 TL
+Vahşetin Çağrısı,Dünya Klasik,Jack London,İthaki Yayınları,110,2013,NaN,5.56 TL
+Lost Face,Classics,Jack London,Gece Kitaplığı,123,2017,1. Basım,8.11 TL
+Cinayet Şirketi,Dünya Klasik,Jack London,Alfa Yayıncılık,230,2016,NaN,10.7 TL
+Martin Eden,Dünya Klasik,Jack London,Olvido,440,2017,1. Basım,14.87 TL
+Beyaz Diş,Dünya Klasik,Jack London,İndigo Kitap,288,2018,1. Basım,9.13 TL
+100 Temel Eser (22 Kitap Kutulu),Dünya Klasik,Daniel Defoe , Jack London , Şeyh Sadi-i Şirazi , Victor Hugo , Ahmet Haşim , Ahmet Hikmet Müftüoğlu , Evliya Çelebi , Lev Nikolayeviç Tolstoy , Nikolay Vasilyeviç Gogol , Samipaşazade Sezai , Johann Wolfgang Von Goethe , Kolektif , Ivan Sergeyeviç Turgenyev , Miguel de Cervantes Saavedra , Gustave Flaubert , Honore de Balzac , Ömer Seyfettin , Fyodor Mihayloviç Dostoyevski , Beydeba , Dede Korkut , Mevlana Celaleddin-i Rumi,İskele Yayıncılık,6283,NaN,NaN,199.06 TL
+The Scarlet Plague,Literature,Jack London,Literart Yayınları,83,2016,NaN,6.51 TL
+Vahşetin Çağrısı,Çocuk Klasik,Jack London,Arkadaş Yayıncılık,120,2014,NaN,3.45 TL
+Sevginin Katıksızı,Dünya Klasik,Jack London,Payel,300,2003,NaN,17.11 TL
+Uçurum İnsanları,Dünya Roman,Jack London,Dorlion Yayınevi,197,2018,1. Basım,6.07 TL
+İstiridye Korsanları,Dünya Klasik,Jack London,Yordam Edebiyat,160,2019,1. Basım,9.12 TL
+Martin Eden,Dünya Klasik,Jack London,Can Yayınları,496,2019,1. Basım,16.85 TL
+Beyaz Diş,Dünya Klasik,Jack London,Yordam Edebiyat,272,2019,1. Basım,12.16 TL
+Haytalarla Çolpalar,Dünya Klasik,Jack London,Yordam Edebiyat,176,2019,1. Basım,10.64 TL
+Demir Ökçe,Dünya Klasik,Jack London,İthaki Yayınları,312,2015,4. Basım,14.44 TL
+The Call of The Wild,Classics,Jack London,MK Publications,64,2017,1. Basım,6.69 TL
+Demir Ökçe,Dünya Klasik,Jack London,Kor Kitap,256,2018,1. Basım,10.56 TL

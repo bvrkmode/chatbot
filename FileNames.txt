@@ -1,0 +1,10 @@
+CokSatanlar.txt
+fyodor-mihaylovic-dostoyevski.txt
+Lev-Nikolayevic-Tolstoy.txt
+George-Orwell.txt
+Sabahattin-Ali.txt
+franz-kafka.txt
+Johann-Wolfgang-Von-Goethe.txt
+irvin-D--Yalom.txt
+Jack-London.txt
+Stefan-Zweig.txt

@@ -1,0 +1,29 @@
+1984,Dünya Roman,George Orwell,Can Yayınları,352,2000,NaN,21.39 TL
+Hayvan Çiftliği,Dünya Roman,George Orwell,Can Yayınları,160,2001,NaN,12.31 TL
+Aspidistra,Dünya Roman,George Orwell,Can Yayınları,280,2005,NaN,18.15 TL
+Boğulmamak İçin,Dünya Roman,George Orwell,Can Yayınları,256,2015,NaN,16.21 TL
+1984 Kırmızı Kutulu Özel Baskı,Dünya Roman,George Orwell,Can Yayınları,464,NaN,1. Basım,61.57 TL
+1984 - Mini Kitap,Dünya Roman,George Orwell,Can Yayınları,648,2015,NaN,13.61 TL
+Wigan İskelesi Yolu,Dünya Roman,George Orwell,Can Yayınları,240,2016,NaN,16.85 TL
+Burma Günleri,Dünya Roman,George Orwell,Can Yayınları,315,2004,NaN,21.39 TL
+Paris ve Londra'da Beş Parasız,Dünya Roman,George Orwell,Can Yayınları,248,2015,NaN,16.21 TL
+Faşizm Kehanetleri,Dünya Politika,George Orwell,Sel Yayıncılık,115,2016,NaN,11.26 TL
+Dali'den Karakurbağasına Bazı Düşünceler,Deneme/Yazın,George Orwell,Sel Yayıncılık,128,2016,NaN,11.26 TL
+Papazın Kızı,Dünya Roman,George Orwell,Can Yayınları,328,2017,1. Basım,20.74 TL
+Edebiyat Üzerine,Deneme/Yazın,George Orwell,Sel Yayıncılık,165,2018,1. Basım,12.67 TL
+Kitaplar ve Sigaralar,Deneme/Yazın,George Orwell,Sel Yayıncılık,118,2013,NaN,11.26 TL
+Balinanın Karnında,Deneme/Yazın,George Orwell,Sel Yayıncılık,150,2015,NaN,11.26 TL
+Burma Günleri-Mini Kitap,Dünya Roman,George Orwell,Can Yayınları,576,2018,NaN,14.91 TL
+Neden Yazıyorum,Deneme/Yazın,George Orwell,Sel Yayıncılık,107,2013,NaN,11.26 TL
+Savaş Günlükleri 1,Türk Günlük Anı,George Orwell,Sel Yayıncılık,175,2017,1. Basım,12.67 TL
+Paris ve Londra'da Beş Parasız-Mini Kitap,Dünya Roman,George Orwell,Can Yayınları,432,2018,1. Basım,11.67 TL
+George Orwell,Literature,George Orwell,Penguin Classics,560,2011,NaN,96.3 TL
+Orwell in Spain (Penguin Modern Classics),Literature,George Orwell,Penguin Classics,416,2009,NaN,84.94 TL
+The Orwell Diaries (Penguin Modern Classics),Literature,George Orwell,Penguin Classics,544,2010,NaN,84.94 TL
+Nineteen Eighty-four,Literature,George Orwell,Penguin Books,336,2008,NaN,45.27 TL
+Essays,Graded Readers,George Orwell,Penguin Books,466,2000,NaN,83.99 TL
+The Road to Wigan Pier (Penguin Modern Classics),Literature,George Orwell,Penguin Classics,240,2001,NaN,56.63 TL
+Papazın Kızı-Mini Kitap,Dünya Roman,George Orwell,Can Yayınları,576,2018,1. Basım,14.26 TL
+Boğulmamak İçin-Mini Kitap,Dünya Roman,George Orwell,Can Yayınları,NaN,NaN,NaN,11.67 TL
+Keep the Aspidistra Flying (Penguin Modern Classics),Literature,George Orwell,Penguin Classics,200,2000,NaN,56.63 TL
+Animal Farm (Penguin Essentials ),Literature,George Orwell,Penguin Books,112,2008,NaN,50.95 TL

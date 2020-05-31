@@ -1,0 +1,36 @@
+Erik Çekirdeği,Çocuk Klasik,Lev Nikolayeviç Tolstoy,Can Çocuk Yayınları,77,2009,NaN,6.48 TL
+İnsan Neyle Yaşar? - Hasan Ali Yücel Klasikleri,Dünya Klasik,Lev Nikolayeviç Tolstoy,İş Bankası Kültür Yayınları,112,2012,NaN,6.67 TL
+Savaş ve Barış - 2 Kitap Takım,Dünya Klasik,Lev Nikolayeviç Tolstoy,İş Bankası Kültür Yayınları,1808,2016,NaN,30.0 TL
+İnsan Neyle Yaşar?,Dünya Klasik,Lev Nikolayeviç Tolstoy,İndigo Kitap,88,2017,NaN,4.3 TL
+Anna Karenina - Hasan Ali Yücel Klasikleri,Dünya Klasik,Lev Nikolayeviç Tolstoy,İş Bankası Kültür Yayınları,1062,2011,NaN,25.34 TL
+İvan İlyiç'in Ölümü - Hasan Ali Yücel Klasikleri,Dünya Klasik,Lev Nikolayeviç Tolstoy,İş Bankası Kültür Yayınları,100,2014,NaN,6.67 TL
+İnsan Ne İle Yaşar,Dünya Klasik,Lev Nikolayeviç Tolstoy,Ren Kitap,96,2017,1. Basım,5.9 TL
+İtiraflarım,Dünya Klasik,Lev Nikolayeviç Tolstoy,Ren Kitap,128,2018,1. Basım,5.9 TL
+Polikuşka,Dünya Klasik,Lev Nikolayeviç Tolstoy,Can Yayınları,88,2019,1. Basım,4.86 TL
+Diriliş - Hasan Ali Yücel Klasikleri,Dünya Klasik,Lev Nikolayeviç Tolstoy,İş Bankası Kültür Yayınları,637,2009,NaN,18.67 TL
+Anna Karenina,Dünya Klasik,Lev Nikolayeviç Tolstoy,İletişim Yayıncılık,1035,2015,NaN,31.09 TL
+Gençlik,Dünya Klasik,Lev Nikolayeviç Tolstoy,İş Bankası Kültür Yayınları,256,2015,NaN,10.66 TL
+Tolstoy'dan Seçme Öyküler,Çocuk Öykü/Hikaye,Lev Nikolayeviç Tolstoy,Arkadaş Yayıncılık,88,2016,NaN,4.15 TL
+Kreutzer Sonat - Hasan Ali Yücel Klasikleri,Dünya Klasik,Lev Nikolayeviç Tolstoy,İş Bankası Kültür Yayınları,144,2013,NaN,6.67 TL
+Sanat Nedir - Hasan Ali Yücel Klasikleri,Sanat Tarihi ve Kuramı,Lev Nikolayeviç Tolstoy,İş Bankası Kültür Yayınları,377,2016,NaN,16.0 TL
+Hacı Murat - Hasan Ali Yücel Klasikleri,Dünya Klasik,Lev Nikolayeviç Tolstoy,İş Bankası Kültür Yayınları,165,2008,NaN,10.0 TL
+İlkgençlik,Dünya Klasik,Lev Nikolayeviç Tolstoy,İş Bankası Kültür Yayınları,144,2015,NaN,8.0 TL
+Çocukluk,Dünya Klasik,Lev Nikolayeviç Tolstoy,İş Bankası Kültür Yayınları,172,2014,NaN,8.0 TL
+Hz. Muhammed,İslamiyet,Lev Nikolayeviç Tolstoy,Çalıkuşu,144,2017,NaN,12.84 TL
+Küçük Şeytan,Çocuk Klasik,Lev Nikolayeviç Tolstoy,Can Çocuk Yayınları,150,2010,NaN,7.78 TL
+Savaş ve Barış-2 Cilt Takım,Dünya Klasik,Lev Nikolayeviç Tolstoy,Can Yayınları,1712,2019,1. Basım,29.17 TL
+Üç Ölüm - Hasan Ali Yücel Klasikleri,Dünya Klasik,Lev Nikolayeviç Tolstoy,İş Bankası Kültür Yayınları,116,2013,NaN,7.34 TL
+İtiraflarım,Dünya Klasik,Lev Nikolayeviç Tolstoy,Araf Yayıncılık,128,2014,NaN,4.6 TL
+İnsan Ne ile Yaşar,Dünya Klasik,Lev Nikolayeviç Tolstoy,Bilge Kültür Sanat,80,2007,NaN,6.33 TL
+Hacı Murat,Dünya Klasik,Lev Nikolayeviç Tolstoy,Can Yayınları,0,2009,NaN,7.13 TL
+Polikuşka,Dünya Klasik,Lev Nikolayeviç Tolstoy,Can Yayınları,96,2005,NaN,4.86 TL
+Anna Karenina,Dünya Klasik,Lev Nikolayeviç Tolstoy,İthaki Yayınları,1224,2018,1. Basım,22.22 TL
+Kreutzer Sonat,Dünya Klasik,Lev Nikolayeviç Tolstoy,Can Yayınları,112,2019,1. Basım,5.83 TL
+Hacı Murat,Dünya Klasik,Lev Nikolayeviç Tolstoy,Can Yayınları,160,2019,1. Basım,7.13 TL
+İnsan Ne İle Yaşar,Dünya Roman,Lev Nikolayeviç Tolstoy,Panama Yayıncılık,176,2011,NaN,5.9 TL
+Bütün Mutluluklar Birbirine Benzer,Dünya Klasik,Lev Nikolayeviç Tolstoy,Zeplin Kitap,112,2015,NaN,7.0 TL
+100 Temel Eser (22 Kitap Kutulu),Dünya Klasik,Daniel Defoe , Jack London , Şeyh Sadi-i Şirazi , Victor Hugo , Ahmet Haşim , Ahmet Hikmet Müftüoğlu , Evliya Çelebi , Lev Nikolayeviç Tolstoy , Nikolay Vasilyeviç Gogol , Samipaşazade Sezai , Johann Wolfgang Von Goethe , Kolektif , Ivan Sergeyeviç Turgenyev , Miguel de Cervantes Saavedra , Gustave Flaubert , Honore de Balzac , Ömer Seyfettin , Fyodor Mihayloviç Dostoyevski , Beydeba , Dede Korkut , Mevlana Celaleddin-i Rumi,İskele Yayıncılık,6283,NaN,NaN,199.06 TL
+Davulun Sesi,Çocuk Klasik,Lev Nikolayeviç Tolstoy,Oda Yayınları,80,1991,NaN,2.52 TL
+Savaş ve Barış - 2 Kitap Takım,Dünya Klasik,Lev Nikolayeviç Tolstoy,İş Bankası Kültür Yayınları,1808,2016,NaN,56.66 TL
+Savaş ve Barış-Fotoğraflı Klasik,Dünya Klasik,Lev Nikolayeviç Tolstoy,Can Yayınları,1880,2018,1. Basım,29.17 TL
+Kazaklar-Hasan Ali Yücel Klasikler,Dünya Klasik,Lev Nikolayeviç Tolstoy,İş Bankası Kültür Yayınları,276,2018,1. Basım,12.66 TL

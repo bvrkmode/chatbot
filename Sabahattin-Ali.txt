@@ -1,0 +1,36 @@
+İçimizdeki Şeytan,Türkiye Roman,Sabahattin Ali,Yapı Kredi Yayınları,254,2016,NaN,6.3 TL
+Kuyucaklı Yusuf,Türkiye Roman,Sabahattin Ali,Yapı Kredi Yayınları,220,2001,NaN,5.78 TL
+Kürk Mantolu Madonna,Türkiye Roman,Sabahattin Ali,Yapı Kredi Yayınları,164,1998,NaN,5.04 TL
+Sırça Köşk,Türk Öykü,Sabahattin Ali,Yapı Kredi Yayınları,152,2003,NaN,5.04 TL
+Üç Öykü,Roman/Öykü,Sabahattin Ali,Yapı Kredi Yayınları,52,2016,NaN,5.66 TL
+Yeni Dünya,Türk Öykü,Sabahattin Ali,Yapı Kredi Yayınları,136,2003,NaN,5.04 TL
+Değirmen,Türk Öykü,Sabahattin Ali,Yapı Kredi Yayınları,148,2003,NaN,5.04 TL
+Bütün Şiirleri - Sabahattin Ali,Türk Şiiri,Sabahattin Ali,Yapı Kredi Yayınları,152,2012,NaN,5.66 TL
+Kürk Mantolu Madonna,Çizgi Roman,Sabahattin Ali,Everest Yayınları,88,2019,1. Basım,10.55 TL
+Sabahattin Ali Seti-8 Kitap Takım,Türkiye Roman,Sabahattin Ali,Ren Kitap,1293,2019,1. Basım,36.85 TL
+Canım Aliye, Ruhum Filiz,Türk Mektup,Sabahattin Ali,Yapı Kredi Yayınları,160,2014,NaN,6.93 TL
+Kürk Mantolu Madonna,Biyografi & Oto Biyografi,Sabahattin Ali,İnkılap Kitabevi,184,2019,1. Basım,3.89 TL
+Kuyucaklı Yusuf,Türkiye Roman,Sabahattin Ali,Doğan Kitap,252,2019,1. Basım,4.74 TL
+Sabahattin Ali Seti-6 Kitap Takım,Türkiye Roman,Sabahattin Ali,Bilgi Yayınevi,NaN,2019,1. Basım,34.72 TL
+Bütün Eserleri - Eleştirel Basım / Sabahattin Ali,Edebiyat İnceleme,Sabahattin Ali,Yapı Kredi Yayınları,1744,2013,NaN,72.41 TL
+Tüm Eserleri-Öyküler,Türkiye Roman,Sabahattin Ali,Epsilon Yayınevi,496,2018,1.Basım,20.94 TL
+Kağnı Ses Esirler,Türk Öykü,Sabahattin Ali,Yapı Kredi Yayınları,232,2003,NaN,6.3 TL
+Kürk Mantolu Madonna,Türkiye Roman,Sabahattin Ali,Epsilon Yayınevi,192,2018,1.Basım,5.37 TL
+Markopaşa Yazıları ve Ötekiler,Deneme/Yazın,Sabahattin Ali,Yapı Kredi Yayınları,152,1998,NaN,6.3 TL
+Kürk Mantolu Madonna,Türkiye Roman,Sabahattin Ali,Akçağ Yayınları,172,2019,1. Basım,3.33 TL
+İçimizdeki Şeytan,Türkiye Roman,Sabahattin Ali,Ren Kitap,272,2018,1. Basım,5.9 TL
+Kuyucaklı Yusuf,Türkiye Roman,Sabahattin Ali,Akçağ Yayınları,272,2019,1. Basım,5.34 TL
+Kürk Mantolu Madonna,Türkiye Roman,Sabahattin Ali,Ren Kitap,176,2018,1. Basım,4.08 TL
+İçimizdeki Şeytan,Biyografi & Oto Biyografi,Sabahattin Ali,İnkılap Kitabevi,328,2019,1. Basım,5.83 TL
+Mahkemelerde,Deneme/Yazın,Sabahattin Ali,Yapı Kredi Yayınları,162,2004,NaN,5.04 TL
+Kürk Mantolu Madonna-Özel Baskı,Türkiye Roman,Sabahattin Ali,Yapı Kredi Yayınları,164,2018,1. Basım,13.85 TL
+İçimizdeki Şeytan,Türkiye Roman,Sabahattin Ali,Rönesans Yayınları,272,2019,1. Basım,7.6 TL
+Sırça Köşk,Türkiye Roman,Sabahattin Ali,Bilgi Yayınevi,196,2019,1. Basım,5.74 TL
+Kamyon - Seçme Öyküler,Türk Öykü,Sabahattin Ali,Yapı Kredi Yayınları,132,2008,NaN,5.04 TL
+Bütün Romanları,Türkiye Roman,Sabahattin Ali,Everest Yayınları,710,2019,1. Basım,19.45 TL
+Sırça Köşk,Türkiye Roman,Sabahattin Ali,Ren Kitap,160,2018,1. Basım,4.08 TL
+Sırça Köşk,Türkiye Roman,Sabahattin Ali,Destek Yayınları,184,2019,1. Basım,5.55 TL
+Değirmen,Türkiye Roman,Sabahattin Ali,Ayrıntı Yayınları,160,2019,1. Basım,6.67 TL
+İçimizdeki Şeytan,Türkiye Roman,Sabahattin Ali,Dokuz Yayınları,416,2019,1. Basım,9.86 TL
+Yeni Dünya,Türkiye Roman,Sabahattin Ali,Ren Kitap,160,2019,1. Basım,4.08 TL
+Kürk Mantolu Madonna,Türkiye Roman,Sabahattin Ali,Everest Yayınları,200,2019,1. Basım,5.56 TL
