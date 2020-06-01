@@ -27,21 +27,21 @@ public class QuestionAnsweringHandler {
 		InformationSource source = new InformationSource();
 
 		if (!Files.exists(Paths.get("FileNames.txt"))) {
-			source.initializeFileNames(web_scraper);//////// veri çeker ,dosyaları oluşturur.
+			source.initializeFileNames(web_scraper);//////// veri Ã§eker ,dosyalarÄ± oluÅŸturur.
 		}
 
 		source.fileReader(web_scraper);/////// Verileri dosyadan okur
         
-		new Answer(source);//Answer nesnesi question ile info source arasında katman görevi görür.
+		new Answer(source);//Answer nesnesi question ile info source arasÄ±nda katman gÃ¶revi gÃ¶rÃ¼r.
 		QuestionPatternCatalog qp = new QuestionPatternCatalog();
 
-		///// Çok Sayıda soru sorulması durumunda ya da başka bi durumdan dolayı birden
-		///// fazla matcher ve parser olması gerekebilir diye düşündük ondan dolayı,
-		///// singleton sınıfı kullanmadık.Soru sayısı bilgisi QuestionHandler'da olduğu için
-		///// ve çok sayıda soru olursa başka parser ve matcher nesneleri oluşturmak
-		///// gerekebilir diye başlangıç için gereken matcher ve parser nesnelerini de burada oluşturduk.
-		///// Yine de bir matcher nesnesi birçok soru için kullanılabilir belki binlerce, aynı durum
-		///// parser nesnesi için de geçerli.
+		///// Ã‡ok SayÄ±da soru sorulmasÄ± durumunda ya da baÅŸka bi durumdan dolayÄ± birden
+		///// fazla matcher ve parser olmasÄ± gerekebilir ondan dolayÄ±,
+		///// singleton sÄ±nÄ±fÄ± kullanmadÄ±m.Soru sayÄ±sÄ± bilgisi QuestionHandler'da olduÄŸu iÃ§in
+		///// ve Ã§ok sayÄ±da soru olursa baÅŸka parser ve matcher nesneleri oluÅŸturmak
+		///// gerekebilir diye baÅŸlangÄ±Ã§ iÃ§in gereken matcher ve parser nesnelerini de burada oluÅŸturduk.
+		///// Yine de bir matcher nesnesi birÃ§ok soru iÃ§in kullanÄ±labilir belki binlerce, aynÄ± durum
+		///// parser nesnesi iÃ§in de geÃ§erli.
  
 		
 		Matcher_ matcher = new Matcher_(qp);
@@ -49,7 +49,7 @@ public class QuestionAnsweringHandler {
 
 		//////////////
 
-		/// kitaplar gösterilir
+		/// kitaplar gÃ¶sterilir
 		System.out.println("---------Books----------------------");
 		for (String key : source.getBooklist().keySet())
 			System.out.println(key);
@@ -58,19 +58,19 @@ public class QuestionAnsweringHandler {
 		System.out.println("-----------The Chatbot--------------");
 		System.out.println("       (press enter for exit)");
 
-		/////////// soru-cevap kısmı
+		/////////// soru-cevap kÄ±smÄ±
 
 		/*
-		 * örnek olarak :
-		 * 1984 adlı kitabın yazarı 
-		 * 1984 kitabının yazarı
-		 * 1984 yazarı 
-		 * George Orwell kitapları 
-		 * Ben Robot adlı kitabın türü nedir
-		 * 1984 kaç lira 
-		 * 1984 türü nedir vs.... 
-		 * 7 farklı soru, farklı kombinasyonlarda sorulabilir(Supplementary Spec 'da belirtilmiştir).
-		 * Yaklaşık 400 kitap ve 150 yazar
+		 * Ã¶rnek olarak :
+		 * 1984 adlÄ± kitabÄ±n yazarÄ± 
+		 * 1984 kitabÄ±nÄ±n yazarÄ±
+		 * 1984 yazarÄ± 
+		 * George Orwell kitaplarÄ± 
+		 * Ben Robot adlÄ± kitabÄ±n tÃ¼rÃ¼ nedir
+		 * 1984 kaÃ§ lira 
+		 * 1984 tÃ¼rÃ¼ nedir vs.... 
+		 * 7 farklÄ± soru, farklÄ± kombinasyonlarda sorulabilir.
+		 * YaklaÅŸÄ±k 400 kitap ve 150 yazar
 		 */
 
 		QuestionAnsweringHandler qa_handler = new QuestionAnsweringHandler();
